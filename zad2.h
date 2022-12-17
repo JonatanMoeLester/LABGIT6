@@ -15,3 +15,4 @@ void zad2()
 	}
 	return 0;
 naprawiony
+	commit
