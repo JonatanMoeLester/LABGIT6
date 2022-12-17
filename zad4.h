@@ -10,3 +10,4 @@ printf("%d \n",liczba);
     liczba++;
 }
 }
+//tak
