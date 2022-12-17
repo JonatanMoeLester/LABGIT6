@@ -1,6 +1,6 @@
 void zad3() 
 {
-
+//commit
 int i=0;
 int N;
 
