@@ -14,5 +14,4 @@ void zad2()
 		printf("\n");
 	}
 	return 0;
-}
-//Commit w branchWojtek from Jonatan ale bedziie konflikt//
+naprawiony
