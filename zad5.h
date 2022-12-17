@@ -10,4 +10,4 @@ random = rand() % 6 + 1;
 printf("%d ",random);
 }
 }
-//Moj commit w zadaniu 5
+//Moj commit w zadaniu 5//moj tez
