@@ -4,6 +4,7 @@
 
 int main()
 {
+    //konflikt
     printf("Hello world!\n");
     return 0;
 }
