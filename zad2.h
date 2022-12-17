@@ -1,6 +1,6 @@
 void zad2()
 {
-	int i,commit1zad2,j,wiersze,liczba=1;
+	int i,commit1zad2,commit2,j,wiersze,liczba=1;
 	printf("Wprowadz ilosc wierszy:\n");
 	scanf("%d",&wiersze);
 	printf("\n");
@@ -14,5 +14,5 @@ void zad2()
 		printf("\n");
 	}
 	return 0;
-}//takktaktkak
-
+naprawiony
+	commit
