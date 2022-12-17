@@ -10,3 +10,4 @@ random = rand() % 6 + 1;
 printf("%d ",random);
 }
 }
+//12312123
