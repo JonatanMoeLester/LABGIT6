@@ -11,3 +11,5 @@ XD
     liczba++;
 }
 }
+//tak
+/essa
