@@ -6,6 +6,7 @@ scanf("%d",&wiersze);
 
 for(i=1;i<=wiersze;i++){
 printf("%d \n",liczba);
+Rozwiazany Konflikt
 XD
     liczba++;
 }
