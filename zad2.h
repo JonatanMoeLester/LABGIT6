@@ -1,6 +1,6 @@
 void zad2()
 {
-	int i,j,wiersze,liczba=1;
+	int i,commit1zad2,j,wiersze,liczba=1;
 	printf("Wprowadz ilosc wierszy:\n");
 	scanf("%d",&wiersze);
 	printf("\n");
