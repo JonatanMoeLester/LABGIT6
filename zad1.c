@@ -4,7 +4,6 @@
 
 int main()
 {
-    //Konflikt...
-    printf("Hello world!\n");
+//naprawa
     return 0;
 }

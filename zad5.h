@@ -9,4 +9,6 @@ random = rand() % 6 + 1;
 //commit
 printf("%d ",random);
 }
+  return 0;
 }
+//naprawa konfliktu
