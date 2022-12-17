@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("Hello world!");  //tak
+//naprawa
     return 0;
 }
