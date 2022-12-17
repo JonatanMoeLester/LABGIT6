@@ -11,3 +11,4 @@ printf("%d \n",liczba);
 }
 }
 //tak
+/essa
