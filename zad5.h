@@ -4,8 +4,8 @@ int random =0;
 
 srand (time(NULL));
 
-while(random!=5){
-random = rand() % 5 + 1;
+while(random!=6){
+random = rand() % 6 + 1;
 //commit
 printf("%d ",random);
 }
