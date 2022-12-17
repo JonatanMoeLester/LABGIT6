@@ -15,4 +15,4 @@ void zad2()
 	}
 	return 0;
 }
-//Commit w branchWojtek from Jonatan
+//Commit w branchWojtek from Jonatan ale bedziie konflikt//
